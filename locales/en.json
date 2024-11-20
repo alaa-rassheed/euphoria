@@ -1,0 +1,27 @@
+{
+  "common": {
+    "home": "Home",
+    "about_us": "About Us",
+    "projects": "Projects",
+    "articles": "Articles",
+    "media": "Media",
+    "contact_us": "Contact Us",
+    "menu": "Menu",
+    "let_work": "Let's Work Together",
+    "learn_more": "Learn More",
+    "view_project": "View Project",
+    "view_projects": "View Projects",
+    "partners": "Our Partners",
+    "your_name": "Your Name",
+    "email_address": "Email Address",
+    "phone_number": "Phone Number",
+    "message": "Message",
+    "name_placeholder": "Enter your full name here",
+    "email_placeholder": "Enter your email here",
+    "phone_placeholder": "Enter your phone number here",
+    "message_placeholder": "Leave your message here",
+    "send_message": "Send Message",
+    "where": "Where?",
+    "articles_desc": "Check the latest articles about our company in our blog. Discover the methods of&nbsp;creativity and technology."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "about_us": "من نحن",
+    "projects": "المشاريع",
+    "articles": "المقالات",
+    "media": "الوسائط",
+    "contact_us": "اتصل بنا",
+    "menu":"القائمة",
+    "let_work":"لنعمل سويا",
+    "learn_more":"اعرف المزيد",
+    "view_projects":"عرض المشاريع",
+    "view_project":"عرض المشروع",
+    "partners":"شركائنا",
+    "your_name":"الإسم",
+    "email_address":"عنوان البريد الإلكتروني",
+    "phone_number":"رقم الهاتف",
+    "message":"الرسالة",
+    "name_placeholder":"ادخل الإسم بالكامل هنا",
+    "email_placeholder":"ادخل البريد الإلكتروني هنا",
+    "phone_placeholder":"ادخل رقم الهاتف هنا",
+    "message_placeholder":"اترك رسالتك هنا",
+    "send_message":"إرسال",
+    "where": "إين؟",
+    "articles_desc": "تحقق من أحدث المقالات حول شركتنا في مدونتنا. اكتشف أساليب الإبداع والتكنولوجيا."
+    
+  }
+}
